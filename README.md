@@ -1,4 +1,4 @@
-# youtubetospotify
+# youtube-to-spotify
 
 > **Note: This project is no longer maintained.**
 
