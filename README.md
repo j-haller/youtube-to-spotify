@@ -1,6 +1,9 @@
 # youtubetospotify
- My first project: Create a playlist on Spotify containing all songs from your liked YouTube videos
 
- I was inspired by Bukola, a creator on YouTube, who made a Tutorial for this type of project in Python. I really liked it and decided to do something similar. Since I'm learning how to code in Java, I thought it would be a cool idea to model my first project after hers, but written in Java of course.
+> **Note: This project is no longer maintained.**
 
- I used the Spotify Web API and YouTube Data API as well as the yt-dlp.
+A Java application that creates a Spotify playlist from your liked YouTube videos. It fetches your liked videos from YouTube, identifies the songs, and adds them to a new or existing Spotify playlist automatically.
+
+I was inspired by Bukola, a creator on YouTube, who made a tutorial for this type of project in Python. Since I was learning Java at the time, I decided to build a similar project in Java as my first coding project.
+
+Built using the Spotify Web API, YouTube Data API, and yt-dlp.
